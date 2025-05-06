@@ -1,0 +1,78 @@
+.column-1{
+  height: 550px;
+  border-radius: 15px;
+  width: 400px;
+  background-color: hsl(31, 77%, 52%);
+ 
+}
+.column-2{
+  height: 550px;
+  border-radius: 15px;
+  width: 400px;
+  background-color: hsl(184, 100%, 22%);
+}
+.column-3{
+  height: 550px;
+  border-radius: 15px;
+  width: 400px;
+  background-color: hsl(179, 100%, 13%);
+}
+img{
+  padding-left: 60px;
+  margin-top: 60px;
+}
+.logo{
+  margin: 60px;
+  font-size: 15px;
+  font-family: Lexend Deca;
+  font-weight: 400px;
+  color: white;
+}
+.context{
+  margin: 60px;
+  font-weight: 700px;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  word-spacing: 5px;
+}
+
+.button-1, .button-2, .button-3{
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+  width: 120px;
+  margin-left: 60px;
+  height: 35px;
+  padding-left: 20px;
+  padding-top: 3px;
+  
+}
+
+.button-1 a{
+  text-decoration: none;
+  color: hsl(31, 77%, 52%);
+}
+
+.button-2 a{
+  text-decoration: none;
+  color: hsl(184, 100%, 22%);
+}
+.button-3 a{
+  text-decoration: none;
+  color: hsl(179, 100%, 13%);
+}
+
+.lexend-deca- {
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: 15px;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+.big-shoulders- {
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: 15px;
+  font-weight: 700px;
+  font-style: normal;
+}
